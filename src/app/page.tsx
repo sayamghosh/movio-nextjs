@@ -1,7 +1,10 @@
 import React from 'react'
+import Card from "@/components/card";
 
 export default function Page() {
   return (
-    <div>page</div>
+    <div>
+      <Card />
+    </div>
   )
 }
