@@ -3,7 +3,7 @@ import Card from "@/components/card";
 
 export default function Page() {
   return (
-    <div>
+    <div className='w-full min-h-screen'>
       <Card />
     </div>
   )
